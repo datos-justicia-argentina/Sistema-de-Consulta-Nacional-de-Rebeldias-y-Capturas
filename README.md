@@ -1,0 +1,2 @@
+# Sistema-de-Consulta-Nacional-de-Rebeldias-y-Capturas
+Este conjunto de datos se conformada con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes.
