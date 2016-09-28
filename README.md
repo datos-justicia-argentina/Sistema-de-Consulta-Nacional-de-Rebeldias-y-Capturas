@@ -33,8 +33,6 @@ Recursos
 
 -   **Rango temporal:** -
 
--   **Fecha de Actualización:** 20/09/2016
-
 ### Campos del recurso
 
 -   **nombre (string):** Nombre de la persona con denuncia de rebeldía o captura.
