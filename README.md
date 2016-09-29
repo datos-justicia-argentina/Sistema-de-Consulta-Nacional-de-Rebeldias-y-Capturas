@@ -35,9 +35,9 @@ Recursos
 
 ### Campos del recurso
 
--   **nombre (string):** Nombre de la persona con denuncia de rebeldía o captura.
-
 -   **apellido (string):** Apellido de la persona con denuncia de rebeldía o captura.
+
+-   **nombre (string):** Nombre de la persona con denuncia de rebeldía o captura.
 
 -   **numero\_documento (string):** Número de documento de la persona con denuncia de rebeldía o captura.
 
