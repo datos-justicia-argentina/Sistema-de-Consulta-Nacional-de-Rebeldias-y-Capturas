@@ -6,7 +6,7 @@ Datos correspondientes a base Co.Na.R.C., creada a partir de la sanción del dec
 Características
 ---------------
 
--   **Fecha de Publicación:** dd/mm/aaaa
+-   **Fecha de Publicación:** 03/10/2016
 
 -   **Recurso:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.).
 
@@ -16,7 +16,7 @@ Características
 
 -   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia.
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia.
+-   **Responsable:** Registro Nacional de Reincidencia.
 
 -   **Frecuencia de Actualización:** Mensual
 
@@ -39,9 +39,15 @@ Recursos
 
 -   **nombre (string):** Nombre de la persona con denuncia de rebeldía o captura.
 
--   **numero\_documento (string):** Número de documento de la persona con denuncia de rebeldía o captura.
+-   **documento (string):** Número de documento de la persona con denuncia de rebeldía o captura.
 
--   **fecha\_nacimiento (fecha):** Fecha de nacimiento de la persona con denuncia de rebeldía o captura.
+-   **nro_causa (string):** Número de causa.
+
+-   **juzgado (string):** Nombre del juzgado.
+
+-   **provincia (string):** Provincia.
+
+-   **localidad (string):** Localidad.
 
 Notas
 -----
