@@ -6,7 +6,7 @@ Datos correspondientes a base Co.Na.R.C., creada a partir de la sanción del dec
 Características
 ---------------
 
--   **Fecha de Publicación:** 04/10/2016
+-   **Fecha de Publicación:** 28/09/2016
 
 -   **Recurso:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.).
 
