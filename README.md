@@ -6,7 +6,7 @@ Datos correspondientes a base Co.Na.R.C., creada a partir de la sanción del dec
 Características
 ---------------
 
--   **Fecha de Publicación:** 03/10/2016
+-   **Fecha de Publicación:** 04/10/2016
 
 -   **Recurso:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.).
 
@@ -41,13 +41,19 @@ Recursos
 
 -   **documento (string):** Número de documento de la persona con denuncia de rebeldía o captura.
 
--   **nro_causa (string):** Número de causa.
+-   **fecha_nacimiento (date):** Fecha de nacimiento de la persona con denuncia de rebeldía o captura.
 
--   **juzgado (string):** Nombre del juzgado.
+-   **nacionalidad (string):** Nacionalidad de la persona con denuncia de rebeldía o captura.
 
--   **provincia (string):** Provincia.
+-   **nro_causa (string):** Número de causa indicada por el Juzgado.
 
--   **localidad (string):** Localidad.
+-   **delito (string):** Delito que cometió la persona con denuncia de rebeldía o captura.
+
+-   **juzgado (string):** Nombre del juzgado interviniente.
+
+-   **provincia (string):** Provincia a la cual pertenece el juzgado interviniente.
+
+-   **localidad (string):** Localidad a la cual pertenece el juzgado interviniente.
 
 Notas
 -----
