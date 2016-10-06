@@ -20,24 +20,24 @@ Características
 
 -   **Frecuencia de Actualización:** Mensual
 
-Recursos Disponibles
---------------------
+Recursos
+--------
 
-### Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.).
+### Sistema de Consulta Nacional de Rebeldías y Capturas.
 
--   **Nombre del archivo:** rebeldias-y-capturas.csv
+-   **Nombre:** rebeldias-y-capturas.csv
 
--   **Descripción del contenido:**
+-   **Descripción:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.)
 
 -   **Formato:** CSV
 
 -   **Rango temporal:** Todas las órdenes de detención vigentes
 
-### Campos del recurso
+#### Campos del recurso
 
--   **apellido (string):** Apellido de la persona con denuncia de rebeldía o captura.
+-   **apellidos (string):** Apellidos de la persona con denuncia de rebeldía o captura.
 
--   **nombre (string):** Nombre de la persona con denuncia de rebeldía o captura.
+-   **nombres (string):** Nombres de la persona con denuncia de rebeldía o captura.
 
 -   **documento (string):** Número de documento de la persona con denuncia de rebeldía o captura.
 
@@ -45,7 +45,7 @@ Recursos Disponibles
 
 -   **nacionalidad (string):** Nacionalidad de la persona con denuncia de rebeldía o captura.
 
--   **nro_causa (string):** Número de causa indicada por el Juzgado.
+-   **numero_causa (string):** Número de causa indicada por el Juzgado.
 
 -   **delito (string):** Delito que cometió la persona con denuncia de rebeldía o captura.
 
