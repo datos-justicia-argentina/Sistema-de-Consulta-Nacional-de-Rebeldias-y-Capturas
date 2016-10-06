@@ -20,14 +20,14 @@ Características
 
 -   **Frecuencia de Actualización:** Mensual
 
-Recursos
---------
+Recursos Disponibles
+--------------------
 
 ### Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.).
 
--   **Nombre:** rebeldias-y-capturas.csv
+-   **Nombre del archivo:** rebeldias-y-capturas.csv
 
--   **Descripción:**
+-   **Descripción del contenido:**
 
 -   **Formato:** CSV
 
