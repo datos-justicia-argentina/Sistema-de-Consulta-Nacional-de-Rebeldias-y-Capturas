@@ -23,7 +23,7 @@ Recursos
 
 ### Sistema de Consulta Nacional de Rebeldías y Capturas.
 
--   **Nombre:** rebeldias-y-capturas.csv
+-   **Nombre:** rebeldias-capturas-vigentes.csv
 
 -   **Descripción:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.)
 
