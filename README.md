@@ -8,8 +8,6 @@ Características
 
 -   **Fecha de Publicación:** 28/09/2016
 
--   **Recurso:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.).
-
 -   **Tags o Etiquetas:** rebeldías, capturas, libertad ambulatoria, penal, federal, detención
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia.
@@ -18,7 +16,7 @@ Características
 
 -   **Responsable:** Registro Nacional de Reincidencia.
 
--   **Frecuencia de Actualización:** Mensual
+-   **Frecuencia de Actualización:** Diaria
 
 Recursos
 --------
@@ -29,7 +27,7 @@ Recursos
 
 -   **Descripción:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.)
 
--   **Formato:** CSV
+-   **Formato:** CSV delimitado por comas
 
 -   **Rango temporal:** Todas las órdenes de detención vigentes
 
