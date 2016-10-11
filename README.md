@@ -1,7 +1,7 @@
 Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.)
 ======================================================================
 
-Datos correspondientes a base Co.Na.R.C., creada a partir de la sanción del decreto 346/2009. Esta base está conformada con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes.
+Datos correspondientes a base Co.Na.R.C., creada a partir de la sanción del decreto 346/2009. Esta base está conformada con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.
 
 Características
 ---------------
