@@ -16,14 +16,14 @@ Características
 
 -   **Responsable:** Registro Nacional de Reincidencia
 
--   **Grupo:** Sistema Registral
+-   **Grupos:** Sistema Registral
 
 -   **Frecuencia de Actualización:** Diaria
 
-Recursos
---------
+Recursos disponibles
+--------------------
 
-### Sistema de Consulta Nacional de Rebeldías y Capturas
+###Sistema de Consulta Nacional de Rebeldías y Capturas
 
 -   **Nombre:** rebeldias-y-capturas.csv
 
@@ -33,7 +33,7 @@ Recursos
 
 -   **Rango temporal:** Todas las órdenes de detención vigentes
 
-#### Campos del recurso
+####Campos del recurso
 
 -   **apellidos (string):** Apellidos de la persona con denuncia de rebeldía o captura
 
