@@ -16,7 +16,7 @@ Características
 
 - **Responsable:** Registro Nacional de Reincidencia
 
-- **Grupos:** Sistema Registral
+- **Grupo:** Sistema Registral
 
 - **Frecuencia de Actualización:** Diaria
 
