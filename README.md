@@ -14,7 +14,7 @@ Características
 
 - **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia
 
-- **Responsable:** Registro Nacional de Reincidencia
+- **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia
 
 - **Grupo:** Sistema Registral
 
