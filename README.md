@@ -49,7 +49,7 @@ Recursos disponibles
 
 - **delito (string):** Delito que cometió la persona con denuncia de rebeldía o captura
 
-- **juzgado (string):** Nombre del juzgado interviniente
+- **organismo (string):** Nombre del juzgado interviniente
 
 - **provincia (string):** Provincia a la cual pertenece el juzgado interviniente
 
