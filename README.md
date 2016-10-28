@@ -33,7 +33,7 @@ Recursos disponibles
 
 - **Rango temporal:** Todas las órdenes de detención vigentes
 
-#### Campos del recurso
+### Campos del recurso
 
 - **apellidos (string):** Apellidos de la persona con denuncia de rebeldía o captura
 
