@@ -6,7 +6,7 @@ Datos correspondientes a base Co.Na.R.C., creada a partir de la sanción del [de
 Características
 ---------------
 
-- **Fecha de Publicación:** 28/09/2016
+- **Fecha de Primera Publicación:** 28/09/2016
 
 - **Tags o Etiquetas:** rebeldías, capturas, libertad ambulatoria, penal, federal, detención
 
