@@ -29,7 +29,7 @@ Recursos disponibles
 
 - **Descripción:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.)
 
-- **Formato:** CSV delimitado por comas
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 - **Rango temporal:** Todas las órdenes de detención vigentes
 
