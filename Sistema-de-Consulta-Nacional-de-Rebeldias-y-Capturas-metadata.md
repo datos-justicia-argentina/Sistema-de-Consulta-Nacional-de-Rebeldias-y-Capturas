@@ -31,29 +31,29 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** Todas las órdenes de detención vigentes
+- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al”
 
 ### Campos del recurso
 
-- **apellidos (string):** Apellidos de la persona con denuncia de rebeldía o captura
+- **apellidos (string):** apellidos de la persona con denuncia de rebeldía o captura
 
-- **nombres (string):** Nombres de la persona con denuncia de rebeldía o captura
+- **nombres (string):** nombres de la persona con denuncia de rebeldía o captura
 
-- **documento (string):** Número de documento de la persona con denuncia de rebeldía o captura
+- **documento (string):** número de documento de la persona con denuncia de rebeldía o captura
 
-- **fecha_nacimiento (date):** Fecha de nacimiento de la persona con denuncia de rebeldía o captura
+- **fecha_nacimiento (date):** fecha de nacimiento de la persona con denuncia de rebeldía o captura
 
-- **nacionalidad (string):** Nacionalidad de la persona con denuncia de rebeldía o captura
+- **nacionalidad (string):** nacionalidad de la persona con denuncia de rebeldía o captura
 
-- **numero_causa (string):** Número de causa indicada por el Juzgado
+- **numero_causa (string):** número de causa indicada por el Juzgado
 
-- **delito (string):** Delito que cometió la persona con denuncia de rebeldía o captura
+- **delito (string):** delito que cometió la persona con denuncia de rebeldía o captura
 
-- **organismo (string):** Nombre del juzgado interviniente
+- **organismo (string):** nombre del juzgado interviniente
 
-- **provincia (string):** Provincia a la cual pertenece el juzgado interviniente
+- **provincia (string):** provincia a la cual pertenece el juzgado interviniente
 
-- **localidad (string):** Localidad a la cual pertenece el juzgado interviniente
+- **localidad (string):** localidad a la cual pertenece el juzgado interviniente
 
 
 
