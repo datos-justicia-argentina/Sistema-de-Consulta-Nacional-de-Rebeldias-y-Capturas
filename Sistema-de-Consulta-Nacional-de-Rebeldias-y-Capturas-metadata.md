@@ -8,7 +8,7 @@ Características
 
 - **Fecha de Primera Publicación:** 28/09/2016
 
-- **Tags o Etiquetas:** rebeldías, capturas, libertad ambulatoria, penal, federal, detención
+- **Tags o Etiquetas:** rebeldías, capturas,detención
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia
 
@@ -27,7 +27,7 @@ Recursos disponibles
 
 - **Nombre:** rebeldias-y-capturas.csv
 
-- **Descripción:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.)
+- **Descripción del contenido:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.)
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
