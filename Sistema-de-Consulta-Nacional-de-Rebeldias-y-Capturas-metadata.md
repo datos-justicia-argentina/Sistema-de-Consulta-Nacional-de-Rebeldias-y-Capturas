@@ -29,7 +29,7 @@ Recursos disponibles
 
 - **Nombre:** rebeldias-y-capturas.csv
 
-- **Descripción del contenido:** Sistema de Consulta Nacional de Rebeldías y Capturas (base Co.Na.R.C.)
+- **Descripción del contenido:** Se detallan las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
