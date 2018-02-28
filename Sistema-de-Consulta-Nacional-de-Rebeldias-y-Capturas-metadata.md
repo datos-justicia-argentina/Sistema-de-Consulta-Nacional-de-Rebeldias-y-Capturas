@@ -10,7 +10,7 @@ Características
 
 - **Fecha de Primera Publicación:** 28/09/2016
 
-- **Tags o Etiquetas:** rebeldías, capturas,detenciones
+- **Tags o Etiquetas:** rebeldías, capturas, detenciones
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia
 
