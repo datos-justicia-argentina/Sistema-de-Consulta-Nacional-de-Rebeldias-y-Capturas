@@ -3,12 +3,14 @@ Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.
 
 Datos correspondientes a base Co.Na.R.C., creada a partir de la sanción del [decreto 346/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152565/norma.htm). Esta base está conformada con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.
 
+http://datos.jus.gob.ar/dataset/conarc
+
 Características
 ---------------
 
 - **Fecha de Primera Publicación:** 28/09/2016
 
-- **Tags o Etiquetas:** rebeldías, capturas,detención
+- **Tags o Etiquetas:** rebeldías, capturas,detenciones
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia
 
