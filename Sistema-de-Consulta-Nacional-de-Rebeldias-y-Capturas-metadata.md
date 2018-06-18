@@ -53,9 +53,9 @@ Recursos disponibles
 
 - **organismo (string):** nombre del juzgado interviniente
 
-- **provincia (string):** provincia a la cual pertenece el juzgado interviniente
+- **provincia_organismo (string):** provincia a la cual pertenece el juzgado interviniente
 
-- **localidad (string):** localidad a la cual pertenece el juzgado interviniente
+- **localidad_organismo (string):** localidad a la cual pertenece el juzgado interviniente
 
 Nota
 ----
