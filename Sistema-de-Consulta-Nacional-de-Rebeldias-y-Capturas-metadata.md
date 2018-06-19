@@ -41,21 +41,25 @@ Recursos disponibles
 
 - **nombres (string):** nombres de la persona con denuncia de rebeldía o captura
 
-- **documento (string):** número de documento de la persona con denuncia de rebeldía o captura
+- **documento_tipo (string):** tipo de documento de la persona con denuncia de rebeldía o captura
+
+- **documento_numero (string):** número de documento de la persona con denuncia de rebeldía o captura
 
 - **fecha_nacimiento (date):** fecha de nacimiento de la persona con denuncia de rebeldía o captura
 
 - **nacionalidad (string):** nacionalidad de la persona con denuncia de rebeldía o captura
 
-- **numero_causa (string):** número de causa indicada por el Juzgado
+- **causa_numero (string):** número de causa indicada por el Juzgado
 
-- **delito (string):** delito que cometió la persona con denuncia de rebeldía o captura
+- **causa_delito (string):** delito que cometió la persona con denuncia de rebeldía o captura
 
-- **organismo (string):** nombre del juzgado interviniente
+- **organismo_nombre (string):** nombre del juzgado interviniente
 
-- **provincia_organismo (string):** provincia a la cual pertenece el juzgado interviniente
+- **organismo_provincia_nombre (string):** provincia a la cual pertenece el juzgado interviniente
 
-- **localidad_organismo (string):** localidad a la cual pertenece el juzgado interviniente
+- **organismo_localidad_nombre (string):** localidad a la cual pertenece el juzgado interviniente
+
+- **organismo_provincia_codigo (string):** provincia a la cual pertenece el juzgado interviniente según la codificación de provincia implementadad por INDEC.
 
 Nota
 ----
