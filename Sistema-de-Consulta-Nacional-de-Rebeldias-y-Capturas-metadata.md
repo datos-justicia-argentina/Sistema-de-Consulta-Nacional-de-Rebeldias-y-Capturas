@@ -59,7 +59,7 @@ Recursos disponibles
 
 - **organismo_localidad_nombre (string):** localidad a la cual pertenece el juzgado interviniente
 
-- **organismo_provincia_codigo (string):** provincia a la cual pertenece el juzgado interviniente según la codificación de provincia implementadad por INDEC.
+- **organismo_provincia_id (string):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC.
 
 Nota
 ----
