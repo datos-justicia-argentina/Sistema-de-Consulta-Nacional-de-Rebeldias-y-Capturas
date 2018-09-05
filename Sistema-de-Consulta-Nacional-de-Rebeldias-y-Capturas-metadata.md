@@ -41,6 +41,8 @@ Recursos disponibles
 
 - **nombres (string):** nombres de la persona con denuncia de rebeldía o captura
 
+- **genero (string):** género de la persona con denuncia de rebeldía o captura
+
 - **documento_tipo (string):** tipo de documento de la persona con denuncia de rebeldía o captura
 
 - **documento_numero (string):** número de documento de la persona con denuncia de rebeldía o captura
