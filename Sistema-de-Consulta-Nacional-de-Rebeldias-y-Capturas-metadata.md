@@ -61,7 +61,7 @@ Recursos disponibles
 
 - **organismo_localidad_nombre (string):** localidad a la cual pertenece el juzgado interviniente
 
-- **conarc_fecha_alta (date):** fecha en que se da de alta la denuncia de rebeldía y captura en la base Co.Na.R.C. Este campo es incorporado a partir del año 2019
+- **conarc_fecha_alta (date):** fecha en que se da de alta la denuncia de rebeldía o captura en la base Co.Na.R.C. Este campo es incorporado a partir del año 2019
 
 - **organismo_provincia_id (string):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC.
 
