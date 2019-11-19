@@ -2,6 +2,7 @@ Sistema de Consulta Nacional de Rebeldías y Capturas - Co.Na.R.C.
 ======================================================================
 
 Datos correspondientes a base Co.Na.R.C., creada a partir de la sanción del [decreto 346/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152565/norma.htm). Esta base está conformada con las comunicaciones que los tribunales realizan al Registro Nacional de Reincidencia de toda medida restrictiva a la libertad ambulatoria que se dicta en el marco de una causa penal, en cualquier jurisdicción del país (ámbito federal, nacional, provincial y de la CABA).  La base sólo refleja las órdenes de detención vigentes hasta las 7:00 hs. de la fecha de actualización.
+Mediante Disposición 7/2019 (https://www.boletinoficial.gob.ar/detalleAviso/primera/220895/20191107) del 7/11/2019 se retiraron de la base CoNaRc las denuncias que no contaban con datos filiatorios o aquellas en que los datos filiatorios eran inconsistentes, y se dispuso como requisito para el ingreso de las mismas al sistema la  confrontación con los datos obrantes en el Registro Nacional de las Personas para su correcto registro.
 
 http://datos.jus.gob.ar/dataset/conarc
 
@@ -72,6 +73,6 @@ Notas
 
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
 
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152565/norma.htm
+Decreto de creación del  Sistema de Consulta Nacional de Rebeldías y Capturas (CoNaRc) [http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152565/norma.htm]
 
-https://www.boletinoficial.gob.ar/detalleAviso/primera/220895/20191107
+Disposición 7/2019, modificatoria del Sistema de Consulta Nacional de Rebeldías y Capturas (CoNaRc) [https://www.boletinoficial.gob.ar/detalleAviso/primera/220895/20191107]
