@@ -72,3 +72,6 @@ Notas
 
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
 
+http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152565/norma.htm
+
+https://www.boletinoficial.gob.ar/detalleAviso/primera/220895/20191107
